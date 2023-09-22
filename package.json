@@ -1,5 +1,5 @@
 {
-  "homepage": "http://lshreyasharmal.github.io/tic-tac-tow",
+  "homepage": "http://lshreyasharmal.github.io/tic-tac-toe",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
